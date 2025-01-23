@@ -1,0 +1,27 @@
+[
+    {
+    "titulo": "El Bosque Mágico",
+    "autor": "Isabella Greenwood",
+    "descripcion": "Una historia fantástica donde la magia y la naturaleza se unen para hacer posible lo imposible. Descubre un mundo lleno de aventuras y secretos ocultos."
+    },
+    {
+    "titulo": "Diseño de Portada de Libro",
+    "autor": "Adrián Fontanarrosa",
+    "descripcion": "Un tutorial completo para aprender a diseñar portadas únicas y cautivadoras. Ideal para autores y diseñadores creativos."
+    },
+    {
+    "titulo": "Atlantis: Proyecto Tarsis",
+    "autor": "Lucas S. Delacroix",
+    "descripcion": "Un emocionante relato de exploración y misterio bajo el agua. Adéntrate en los secretos de la legendaria Atlántida y descubre lo inesperado."
+    },
+    {
+    "titulo": "Hasta que el verano se acabe",
+    "autor": "Sofía Lancaster",
+    "descripcion": "Una historia fresca y conmovedora sobre el amor, la esperanza y los momentos que marcan nuestras vidas antes de que la estación termine."
+    },
+    {
+    "titulo": "El Chico Andrómeda",
+    "autor": "Damián Vega",
+    "descripcion": "Una novela oscura y atrapante que mezcla la belleza del cosmos con los desafíos de la vida. Perfecta para quienes buscan historias llenas de emociones profundas."
+    }
+]

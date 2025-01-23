@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/books.css">
+    <title>Libros - LIBRARIUM</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Información de Libros</h1>
+    </div>
+    <div class="topnav">
+        <a href="Index.html">Inicio</a>
+        <a href="Informacion.html">Información</a>
+        <a href="Galeria.html">Galeria</a>
+        <a href="login.html">Iniciar Sesión</a>
+        <a href="books.html">Informacion detallada</a>
+    </div>
+    <div class="form-container">
+        <form id="book-form">
+            <label for="book-title">Título del Libro:</label>
+            <select id="book-title" name="book-title">
+                <option value="">Seleccione un libro</option>
+                <option value="1">El Bosque Mágico</option>
+                <option value="2">Atlantis: Proyecto Tarsis</option>
+                <option value="3">Hasta que el verano se acabe</option>
+                <option value="4">El Chico Andrómeda</option>
+                <option value="5">Diseño de Portada de Libro</option>
+            </select>
+
+            <label for="author">Autor:</label>
+            <input type="text" id="author" name="author" readonly>
+
+            <label for="description">Descripción:</label>
+            <textarea id="description" name="description" readonly></textarea>
+        </form>
+    </div> 
+    <button id="darkModeButton" type="button" onclick="cambiarFondo()">Cambiar fondo oscuro</button>
+    <script src="js/index.js"></script>
+</body>
+</html>
